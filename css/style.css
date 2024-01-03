@@ -50,8 +50,6 @@ li {
 /** ----------НОВА СЕКЦІЯ header---------- **/
 
 .header {
-  padding-top: 24px;
-  padding-bottom: 24px;
   border-bottom: 1px solid #e7e9fc;
   background: #fff;
 }
@@ -68,6 +66,7 @@ li {
   display: flex;
   margin-left: 156px;
   margin-right: 76px;
+  padding: 24px 0;
 }
 
 .header-logo-span {
@@ -117,6 +116,7 @@ li {
 }
 
 .adress-item {
+  padding: 24px 0;
 }
 
 .adress-link {
@@ -139,14 +139,13 @@ li {
 
 /** ----------НОВА СЕКЦІЯ HERO---------- **/
 .hero {
+  padding-top: 188px;
+  padding-bottom: 188px;
+  background-color: #2e2f42;
 }
 
 .hero-containet {
-  background-color: #2e2f42;
-  padding-top: 188px;
-  padding-bottom: 188px;
 }
-
 .hero-title {
   color: #fff;
   font-size: 56px;
