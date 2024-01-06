@@ -64,7 +64,6 @@ li {
   text-transform: uppercase;
   text-decoration: none;
   display: flex;
-  margin-left: 156px;
   margin-right: 76px;
   padding: 24px 0;
 }
@@ -81,7 +80,6 @@ li {
 
 .header-menu-list {
   display: flex;
-  margin-left: 76px;
   gap: 40px;
 }
 
